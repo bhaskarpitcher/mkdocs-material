@@ -2,7 +2,7 @@ backend:
   name: github
   repo: bhaskarpitcher/bhaskarpitcher.github.io
   branch: master
-  site_domain: ornate-meringue-487bed.netlify.com
+  site_domain: sparkly-faloodeh-2618e4.netlify.com
 
 media_folder: "images/uploads"
 
