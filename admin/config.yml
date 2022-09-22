@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bhaskarpitcher/bhaskarpitcher.github.io
+  repo: bhaskarpitcher/mkdocs-material
   branch: master
   site_domain: sparkly-faloodeh-2618e4.netlify.com
 
