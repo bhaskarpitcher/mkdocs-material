@@ -2,7 +2,7 @@ backend:
   name: github
   repo: bhaskarpitcher/mkdocs-material
   branch: master
-  site_domain: sparkly-faloodeh-2618e4.netlify.com
+  site_domain: https://sparkly-faloodeh-2618e4.netlify.app/
 
 media_folder: "images/uploads"
 
